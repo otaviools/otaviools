@@ -1,11 +1,11 @@
 # Otávio Santos
-### 👨‍💻 Desenvolvedor Full Stack em Formação | Estudante de Sistemas de Informação
+### Desenvolvedor Full Stack em Formação | Estudante de Sistemas de Informação
 
 > "Transformando lógica em soluções eficientes e design em experiência."
 
 ---
 
-## 🆔 Identidade Profissional
+## Identidade Profissional
 Sou estudante do 2º período de **Sistemas de Informação na ESAMC** (Uberlândia-MG), focado no desenvolvimento de aplicações completas e funcionais. 
 
 Meu objetivo com este repositório é documentar minha evolução técnica, saindo da teoria para a prática em **Back-End**, **Banco de Dados** e **Design de Interfaces**. Busco oportunidades de estágio onde possa aplicar minha lógica de programação e habilidades de prototipagem.
@@ -32,7 +32,7 @@ Meu objetivo com este repositório é documentar minha evolução técnica, sain
 
 ---
 
-## 📚 Atividades e Projetos
+## Atividades e Projetos
 Neste repositório, organizo meus projetos em três pilares principais:
 
 1.  **Lógica & Algoritmos:** Exercícios focados em estrutura de dados e otimização de código (Python/Java).
