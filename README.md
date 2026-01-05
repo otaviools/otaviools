@@ -6,7 +6,7 @@
 ---
 
 ## Identidade Profissional
-Sou estudante do 2º período de **Sistemas de Informação na ESAMC** (Uberlândia-MG), focado no desenvolvimento de aplicações completas e funcionais. 
+Sou estudante do 3º período de **Sistemas de Informação na ESAMC** (Uberlândia-MG), focado no desenvolvimento de aplicações completas e funcionais. 
 
 Meu objetivo com este repositório é documentar minha evolução técnica, saindo da teoria para a prática em **Back-End**, **Banco de Dados** e **Design de Interfaces**. Busco oportunidades de estágio onde possa aplicar minha lógica de programação e habilidades de prototipagem.
 
