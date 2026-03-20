@@ -57,6 +57,6 @@
 
 <!-- Footer wave -->
 <div align="center">
-  <img width="1280" height="320" alt="banner github" src="https://github.com/user-attachments/assets/72893191-572f-46b5-b518-53997ab114e5"/>
+  <img width="1280" height="320" alt="banner github" src="https://github.com/user-attachments/assets/fef823b6-e7a3-46ed-b068-d8ed18c172ef" />
 </div>
 
