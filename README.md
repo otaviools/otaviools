@@ -18,14 +18,14 @@
 
 ## 💻 About
 
-🟣 Desenvolvedor Full-Stack focado em soluções web e análise de dados<br>
-🟣 Apaixonado por interfaces bem construídas e código limpo<br>
-🟣 Sempre aprendendo, sempre construindo<br>
-🟣 Baseado em **Uberlândia, Brasil**
+- Desenvolvedor Full-Stack focado em soluções web e análise de dados<br>
+- Apaixonado por interfaces bem construídas e código limpo<br>
+- Sempre aprendendo, sempre construindo<br>
+- Baseado em **Uberlândia, Brasil**
 
 ---
 
-## ⚙️ Stacks
+## ⚙️ Stacks & Tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,postgres,figma,&theme=dark" />
