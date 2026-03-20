@@ -8,8 +8,8 @@
 </h1>
 
 <p align="center">
-Desenvolvedor focado em Sistemas de Informação. Atuo em Back-End, APIs REST, análise de dados e Front-End responsivo,
-unindo rigor analítico e visão de produto para entregar soluções eficientes e escaláveis.
+Developer focused on Information Systems. I work in Back-End, REST APIs, data analysis, and responsive Front-End,
+combining analytical rigor and product vision to deliver efficient and scalable solutions.
 </p>
 
 <br>
@@ -19,10 +19,10 @@ unindo rigor analítico e visão de produto para entregar soluções eficientes 
 
 <h4 align="left">💻 About</h4>
 <p align="left">
-  • Desenvolvedor Full-Stack focado em soluções web e análise de dados<br>
-  • Apaixonado por interfaces bem construídas e código limpo<br>
-  • Buscando estágio Full-Stack ou Data Analytics<br>
-  • Baseado em Uberlândia, Brasil
+  • Full-Stack Developer focused on web solutions and data analytics
+  • Passionate about well-built interfaces and clean code
+  • Seeking a Full-Stack or Data Analytics internship
+  • Based in Uberlândia, Brazil
 </p>
 
 <br>
