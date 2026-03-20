@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;" alt="Typing SVG" /></a>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&width=435&lines=UI%2FUX+Fullstack+Developer+%7C+Freelancer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&width=600&lines=UI%2FUX+Fullstack+Developer+%7C+Freelancer" alt="Typing SVG" />
  
 <p align="left">
 Developer focused on Information Systems. I work in Back-End, REST APIs, data analysis, and responsive Front-End,
