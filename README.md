@@ -49,13 +49,22 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/otaviols)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviools13@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devotaviosantos.vercel.app/)
+<a href="mailto:otaviools13@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+ </a>
+ </div>
+
+ <a href="https://www.linkedin.com/in/otaviools/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+ </a>
+
+ <a href="https://devotaviosantos.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel"/>
+ </a>
 
 </div>
 
 <!-- Footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:1a1f35&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:1a1f35&height=150&section=footer" width="100%"/>
 </div>
