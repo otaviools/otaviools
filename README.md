@@ -1,54 +1,70 @@
-# Otávio Santos
-### Desenvolvedor Full Stack em Formação | Estudante de Sistemas de Informação
+<!-- Banner animado no topo -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,50:1e3a8a,100:3b82f6&height=120&section=header" width="100%"/>
+</div>
 
-> "Transformando lógica em soluções eficientes e design em experiência."
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3CHello+World%2F%3E;Olá%2C+eu+sou+Otávio+Santos!;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  Olá! Meu nome é <strong>Otávio Santos</strong> e sou um Desenvolvedor focado em transformar ideias em soluções digitais através do código.<br>
+  Construo interfaces web dinâmicas, intuitivas e de alta performance, trabalhando na interseção entre design e engenharia —<br>
+  onde uma ótima experiência do usuário encontra código limpo e escalável.
+</p>
 
 ---
 
-## Identidade Profissional
-Sou estudante do 3º período de **Sistemas de Informação na ESAMC** (Uberlândia-MG), focado no desenvolvimento de aplicações completas e funcionais. 
+## 🧑‍💻 Sobre mim
 
-Meu objetivo com este repositório é documentar minha evolução técnica, saindo da teoria para a prática em **Back-End**, **Banco de Dados** e **Design de Interfaces**. Busco oportunidades de estágio onde possa aplicar minha lógica de programação e habilidades de prototipagem.
+- 💻 Desenvolvedor Full-Stack focado em soluções web e análise de dados
+- 🎨 Apaixonado por interfaces bem construídas e código limpo
+- 📈 Sempre aprendendo, sempre construindo
+- 📍 Baseado em **Uberlândia, Brasil**
 
 ---
 
-## 🛠 Tech Stack & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-### Back-End & Dados
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<div align="center">
 
-### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Design & Ferramentas
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## Atividades e Projetos
-Neste repositório, organizo meus projetos em três pilares principais:
-
-1.  **Lógica & Algoritmos:** Exercícios focados em estrutura de dados e otimização de código (Python/Java).
-2.  **Sistemas & CRUDs:** Aplicações práticas com persistência de dados utilizando PostgreSQL e pgAdmin 4.
-3.  **Interfaces (UI):** Projetos de Front-end com foco em responsividade e UX, prototipados no Figma.
+</div>
 
 ---
 
-## 🚀 Como me contratar
-Estou disponível para bater um papo sobre tecnologia, desenvolvimento de software e novas oportunidades.
+## 📊 GitHub Analytics
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/otaviols/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=jrjtXPXKnltBRgbSWTgtKgfLtbKRtjHCxXzLRVDLjzjkrTmVWLgQSJPFRbtJbDHMWSKHlDNv">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviools&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviools&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviools&theme=dark&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/otaviols)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviools13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devotaviosantos.vercel.app/)
+
+</div>
+
+<!-- Footer wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:1a1f35&height=100&section=footer" width="100%"/>
 </div>
