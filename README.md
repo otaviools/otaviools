@@ -1,9 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient-grey&reversal=false" width="100%"/>
-
-<div align="left">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;%3Cp%3EUI%2FUX+%26+FullStack+Developer%3C%2Fp%3E" alt="Typing SVG"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,50:1e3a8a,100:3b82f6&height=120&section=header" width="100%"/>
 </div>
+ 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3CHello+World%2F%3E;Olá%2C+eu+sou+Otávio+Santos!;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+ 
 
 
 <p align="center">
