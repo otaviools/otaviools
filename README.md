@@ -1,11 +1,10 @@
-<!-- Banner animado no topo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient-grey&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient-grey&reversal=false" width="100%"/>
+
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;%3Cp%3EUI%2FUX+%26+FullStack+Developer%3C%2Fp%3E" alt="Typing SVG"/></a>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;%3Cp%3EUI%2FUX+%26+FullStack+Developer%3C%2Fp%3E" alt="Typing SVG"/>
-</h1>
 
 <p align="center">
 Developer focused on Information Systems. I work in Back-End, REST APIs, data analysis, and responsive Front-End,
