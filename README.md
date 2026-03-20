@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;%3Cp%3EUI%2FUX+%26+FullStack+Developer%3C%2Fp%3E" alt="Typing SVG"/>
 </h1>
 
-<p align="left">
+<p align="center">
 Desenvolvedor focado em Sistemas de Informação. Atuo em Back-End, APIs REST, análise de dados e Front-End responsivo,
 unindo rigor analítico e visão de produto para entregar soluções eficientes e escaláveis.
 </p>
