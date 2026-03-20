@@ -5,8 +5,9 @@
 <div align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;%3Cp%3EUI%2FUX+%26+FullStack+Developer%3C%2Fp%3E" alt="Typing SVG" /></a>
 </div>
- 
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&width=435&lines=%3CHello%2C+Im+Ot%C3%A1vio+Santos%3E;%3CDesigner+%26+FullStack+Developer%3E;Fullstack+Developer+%7C+Freelancer" alt="Typing SVG" />
+ 
 <p align="left">
 Developer focused on Information Systems. I work in Back-End, REST APIs, data analysis, and responsive Front-End,
 combining analytical rigor and product vision to deliver efficient and scalable solutions.
@@ -25,7 +26,7 @@ combining analytical rigor and product vision to deliver efficient and scalable 
 ## ⚙️ Stacks & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,spring,postgres,figma,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,spring,postgres,figma&theme=dark" />
 </div>
 
 
@@ -50,7 +51,6 @@ combining analytical rigor and product vision to deliver efficient and scalable 
  
 </div>
 
-<!-- Footer wave -->
 <div align="center">
   <img width="1280" height="320" alt="banner github" src="https://github.com/user-attachments/assets/fef823b6-e7a3-46ed-b068-d8ed18c172ef" />
 </div>
