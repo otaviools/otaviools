@@ -57,5 +57,6 @@
 
 <!-- Footer wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:1a1f35&height=100&section=footer" width="100%"/>
+  <img width="1280" height="320" alt="banner github" src="https://github.com/user-attachments/assets/72893191-572f-46b5-b518-53997ab114e5"/>
 </div>
+
