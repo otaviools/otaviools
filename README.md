@@ -18,10 +18,21 @@
 
 ## 💻 About
 
+<table>
+  <tr>
+    <td>
+
 - Desenvolvedor Full-Stack focado em soluções web e análise de dados<br>
 - Apaixonado por interfaces bem construídas e código limpo<br>
 - Sempre aprendendo, sempre construindo<br>
 - Baseado em **Uberlândia, Brasil**
+
+    </td>
+    <td>
+      <img width="200" alt="logo" src="https://github.com/user-attachments/assets/89c1cbc2-7a6a-49a1-96f7-ef6a2e5c2d66" />
+    </td>
+  </tr>
+</table>
 
 
 ## ⚙️ Stacks & Tools
@@ -30,7 +41,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,postgres,figma,&theme=dark" />
 </div>
 
----
 
 ## 🐺 GitHub Analytics
 
