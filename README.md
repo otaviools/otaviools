@@ -16,16 +16,16 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## About
 
-- 💻 Desenvolvedor Full-Stack focado em soluções web e análise de dados
-- 🎨 Apaixonado por interfaces bem construídas e código limpo
-- 📈 Sempre aprendendo, sempre construindo
-- 📍 Baseado em **Uberlândia, Brasil**
+- Desenvolvedor Full-Stack focado em soluções web e análise de dados
+- Apaixonado por interfaces bem construídas e código limpo
+- Sempre aprendendo, sempre construindo
+- Baseado em **Uberlândia, Brasil**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Stacks
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,postgres,figma,&theme=dark" />
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviools&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff"/>
@@ -46,7 +46,7 @@
 
 ---
 
-## 📫 Contato
+## Contact
 
 <div align="center">
  
