@@ -42,6 +42,7 @@
  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviools&theme=dark&background=0d1117&hide_border=true&ring=A259FF&fire=A259FF&currStreakLabel=D9D9D9"/>
+  <img src="https://komarev.com/ghpvc/?username=otaviools&color=A259FF&style=flat&label=Visitantes+do+perfil"/>
 </div>
 
 
