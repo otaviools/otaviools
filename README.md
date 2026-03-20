@@ -7,32 +7,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;%3Cp%3EUI%2FUX+%26+FullStack+Developer%3C%2Fp%3E" alt="Typing SVG"/>
 </h1>
 
-
 <p align="left">
-  Olá! Meu nome é <strong>Otávio Santos</strong> e sou um Desenvolvedor focado em transformar ideias em soluções digitais através do código.<br>
-  Construo interfaces web dinâmicas, intuitivas e de alta performance, trabalhando na interseção entre design e engenharia —<br>
-  onde uma ótima experiência do usuário encontra código limpo e escalável.
+  Desenvolvedor Full-Stack focado em soluções web e análise de dados,
+  transformando ideias em soluções digitais através do código. Construo
+  interfaces web dinâmicas, intuitivas e de alta performance, trabalhando
+  na interseção entre design e engenharia.
 </p>
 
----
+<img align="right" height="200" src="https://github.com/user-attachments/assets/18c5932a-cdc7-4a45-97fd-43f101ada084"/>
 
-## 💻 About
-
-<table>
-  <tr>
-    <td>
-
-- Desenvolvedor Full-Stack focado em soluções web e análise de dados<br>
-- Apaixonado por interfaces bem construídas e código limpo<br>
-- Sempre aprendendo, sempre construindo<br>
-- Baseado em **Uberlândia, Brasil**
-
-    </td>
-    <td>
-      <img width="200" alt="logo" src="https://github.com/user-attachments/assets/89c1cbc2-7a6a-49a1-96f7-ef6a2e5c2d66" />
-    </td>
-  </tr>
-</table>
+<h4 align="left">💻 About</h4>
+<p align="left">
+  • Desenvolvedor Full-Stack focado em soluções web e análise de dados<br>
+  • Apaixonado por interfaces bem construídas e código limpo<br>
+  • Sempre aprendendo, sempre construindo<br>
+  • Baseado em Uberlândia, Brasil
+</p>
 
 
 ## ⚙️ Stacks & Tools
