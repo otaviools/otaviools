@@ -1,6 +1,6 @@
 <!-- Banner animado no topo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20FullStack%20Developer&section=header&reversal=true&textBg=false" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,50:1e3a8a,100:3b82f6&height=120&section=header" width="100%"/>
 </div>
 
 <h1 align="center">
