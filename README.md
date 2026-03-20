@@ -19,9 +19,9 @@ combining analytical rigor and product vision to deliver efficient and scalable 
 
 <h4 align="left">💻 About</h4>
 <p align="left">
-  • Full-Stack Developer focused on web solutions and data analytics
-  • Passionate about well-built interfaces and clean code
-  • Seeking a Full-Stack or Data Analytics internship
+  • Full-Stack Developer focused on web solutions and data analytics<br>
+  • Passionate about well-built interfaces and clean code<br>
+  • Seeking a Full-Stack or Data Analytics internship<br>
   • Based in Uberlândia, Brazil
 </p>
 
