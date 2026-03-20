@@ -25,7 +25,7 @@ combining analytical rigor and product vision to deliver efficient and scalable 
 ## ⚙️ Stacks & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,springboot,postgres,figma,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,spring,postgres,figma,&theme=dark" />
 </div>
 
 
