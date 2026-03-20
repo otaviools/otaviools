@@ -13,19 +13,14 @@ Developer focused on Information Systems. I work in Back-End, REST APIs, data an
 combining analytical rigor and product vision to deliver efficient and scalable solutions.
 </p>
 
-<h4 align="left">💻 About</h4>
-<table align="left">
-  <tr>
-    <td>
-      <p>
-        • Full-Stack Developer focused on web solutions and data analytics<br>
-        • Passionate about well-built interfaces and clean code<br>
-        • Seeking a Full-Stack or Data Analytics internship<br>
-        • Based in Uberlândia, Brazil
-      </p>
-    </td>
-  </tr>
-</table>
+## 💻 About
+
+<p align="left">
+  • Full-Stack Developer focused on web solutions and data analytics<br>
+  • Passionate about well-built interfaces and clean code<br>
+  • Seeking a Full-Stack or Data Analytics internship<br>
+  • Based in Uberlândia, Brazil
+</p> 
 
 ## ⚙️ Stacks & Tools
 
