@@ -9,8 +9,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=3000&pause=1000&color=A259FF&width=600&lines=UI%2FUX+Fullstack+Developer+%7C+Freelancer" alt="Typing SVG" />
  
 <p align="left">
-Developer focused on Information Systems. I work in Back-End, REST APIs, data analysis, and responsive Front-End,
-combining analytical rigor and product vision to deliver efficient and scalable solutions.
+Developer and Information Systems student. I work with Back-End, REST APIs, data analysis, and responsive Front-End.
+Combining analytical rigor and product vision to deliver efficient and scalable solutions.
 </p>
 
 ## 💻 About
