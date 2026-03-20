@@ -13,8 +13,8 @@ Developer focused on Information Systems. I work in Back-End, REST APIs, data an
 combining analytical rigor and product vision to deliver efficient and scalable solutions.
 </p>
 
-<h4 align="center">💻 About</h4>
-<table align="center">
+<h4 align="left">💻 About</h4>
+<table align="left">
   <tr>
     <td>
       <p>
