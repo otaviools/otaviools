@@ -35,15 +35,17 @@
 
 ## GitHub Analytics
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviools&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&ring=A259FF&icon_color=A259FF&title_color=D9D9D9"/>
 </div>
  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviools&theme=dark&background=0d1117&hide_border=true&ring=A259FF&fire=A259FF&currStreakLabel=D9D9D9"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviools&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviools&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
+</div>
 
 ---
 
