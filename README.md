@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,50:1e3a8a,100:3b82f6&height=200&section=header" width="100%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3E+Hello%2C+Im+Ot%C3%A1vio+Santos+%3C%2Fh1%3E;%3Cp%3E+Designer+%26+FullStack+Developer+%3C%2Fp%3E" alt="Typing SVG" />
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3E+Hello%2C+Im+Ot%C3%A1vio+Santos+%3C%2Fh1%3E;%3Cp%3E+Designer+%26+FullStack+Developer+%3C%2Fp%3E" alt="Typing SVG" />
 </h1>
 
 
