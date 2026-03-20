@@ -8,10 +8,8 @@
 </h1>
 
 <p align="left">
-  Desenvolvedor Full-Stack focado em soluções web e análise de dados,
-  transformando ideias em soluções digitais através do código. Construo
-  interfaces web dinâmicas, intuitivas e de alta performance, trabalhando
-  na interseção entre design e engenharia.
+Desenvolvedor focado em Sistemas de Informação. Atuo em Back-End, APIs REST, análise de dados e Front-End responsivo,
+unindo rigor analítico e visão de produto para entregar soluções eficientes e escaláveis.
 </p>
 
 <br>
