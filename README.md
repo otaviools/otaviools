@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3CHello+World%2F%3E;Ol%C3%A1%2C+eu+sou+Ot%C3%A1vio+Santos!;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;%3Cp%3EFullStack+Developer%3C%2Fp%3E)](https://git.io/typing-svg)
 </h1>
 
 <p align="left">
