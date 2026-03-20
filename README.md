@@ -39,8 +39,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviools&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviools&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff"/>
 </div>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviools&theme=dark&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=otaviools&theme=darkhub&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
