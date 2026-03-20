@@ -14,9 +14,6 @@ combining analytical rigor and product vision to deliver efficient and scalable 
 
 <br>
 
-<img align="right" width="250" src="https://github.com/user-attachments/assets/9ceb58fb-2017-46bf-bc4a-92bf5c287d83"/>
-
-
 <h4 align="left">💻 About</h4>
 <p align="left">
   • Full-Stack Developer focused on web solutions and data analytics<br>
