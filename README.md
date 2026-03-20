@@ -27,7 +27,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,postgres,excel,figma,,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,postgres,figma,&theme=dark" />
 </div>
 
 ---
