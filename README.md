@@ -4,8 +4,9 @@
 </div>
 
 <h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;%3Cp%3EFullStack+Developer%3C%2Fp%3E)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D9D9D9&width=435&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;%3Cp%3EFullStack+Developer%3C%2Fp%3E" alt="Typing SVG" />
 </h1>
+
 
 <p align="left">
   Olá! Meu nome é <strong>Otávio Santos</strong> e sou um Desenvolvedor focado em transformar ideias em soluções digitais através do código.<br>
