@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient-black"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0,0,0,255&section=header"/>
 </div>
  
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&width=435&lines=%3CHello%2C+Im+Ot%C3%A1vio+Santos%3E;%3CDesigner+%26+FullStack+Developer%3E" alt="Typing SVG" /></a>
 </div>
  
-
 
 <p align="center">
 Developer focused on Information Systems. I work in Back-End, REST APIs, data analysis, and responsive Front-End,
@@ -23,7 +22,6 @@ combining analytical rigor and product vision to deliver efficient and scalable 
   • Based in Uberlândia, Brazil
 </p>
 
-<br>
 
 ## ⚙️ Stacks & Tools
 
