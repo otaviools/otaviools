@@ -23,7 +23,6 @@
 - Sempre aprendendo, sempre construindo<br>
 - Baseado em **Uberlândia, Brasil**
 
----
 
 ## ⚙️ Stacks & Tools
 
@@ -44,7 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviools&theme=react-dark&bg_color=0d1117&color=A259FF&line=A259FF&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
----
 
 ## 📩 Contact
 
