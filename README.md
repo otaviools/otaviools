@@ -14,6 +14,8 @@
   na interseção entre design e engenharia.
 </p>
 
+<br>
+
 <img align="right" width="250" src="https://github.com/user-attachments/assets/9ceb58fb-2017-46bf-bc4a-92bf5c287d83"/>
 
 
@@ -25,6 +27,7 @@
   • Baseado em Uberlândia, Brasil
 </p>
 
+<br>
 
 ## ⚙️ Stacks & Tools
 
