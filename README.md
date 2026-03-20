@@ -14,7 +14,7 @@
   na interseção entre design e engenharia.
 </p>
 
-<img align="right" height="200" src="https://github.com/user-attachments/assets/18c5932a-cdc7-4a45-97fd-43f101ada084"/>
+<img align="center" height="200" src="https://github.com/user-attachments/assets/774b005e-0186-4f52-8728-fdd4bc5c1bfa"/>
 
 <h4 align="left">💻 About</h4>
 <p align="left">
