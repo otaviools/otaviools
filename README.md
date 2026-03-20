@@ -47,16 +47,12 @@
 
 ## 📫 Contato
 
-<div align="center">
-  <a href="https://linkedin.com/in/otaviols">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
-  </a>
-  <a href="mailto:otaviools13@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="40"/>
-  </a>
-  <a href="https://devotaviosantos.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/ffffff" width="40"/>
-  </a>
+<div align="left">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/otaviols)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otaviools13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://devotaviosantos.vercel.app/)
+ 
 </div>
 
 <!-- Footer wave -->
