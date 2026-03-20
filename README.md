@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,50:1e3a8a,100:3b82f6&height=120&section=header" width="100%"/>
 </div>
  
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=F7F7F7&width=435&lines=%3CHello%2C+Im+Ot%C3%A1vio+Santos%3E;%3CDesigner+%26+FullStack+Developer%3E" alt="Typing SVG" /></a>
-</h1>
+</div>
  
 
 
