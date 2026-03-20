@@ -42,7 +42,7 @@
  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviools&theme=dark&background=0d1117&hide_border=true&ring=A259FF&fire=A259FF&currStreakLabel=D9D9D9"/>
-  <img src="https://komarev.com/ghpvc/?username=otaviools&color=A259FF&style=flat&label=Visitantes+do+perfil"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviools&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
 
