@@ -1,6 +1,6 @@
 <!-- Banner animado no topo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f35,50:1e3a8a,100:3b82f6&height=200&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient-black&reversal=false" width="100%"/>
 </div>
 
 <h1 align="center">
