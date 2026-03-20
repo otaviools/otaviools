@@ -21,7 +21,7 @@ unindo rigor analítico e visão de produto para entregar soluções eficientes 
 <p align="left">
   • Desenvolvedor Full-Stack focado em soluções web e análise de dados<br>
   • Apaixonado por interfaces bem construídas e código limpo<br>
-  • Sempre aprendendo, sempre construindo<br>
+  • Buscando estágio Full-Stack ou Data Analytics<br>
   • Baseado em Uberlândia, Brasil
 </p>
 
