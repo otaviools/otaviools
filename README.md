@@ -33,7 +33,6 @@ Combining analytical rigor and product vision to deliver efficient and scalable 
 
 <div align="center">
   <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=otaviools&theme=dark&background=0d1117&hide_border=true&ring=A259FF&fire=A259FF&currStreakLabel=D9D9D9"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=otaviools&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=A259FF&title_color=D9D9D9"/>
 </div>
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviools&theme=react-dark&bg_color=0d1117&color=A259FF&line=A259FF&point=ffffff&hide_border=true" width="100%"/>
