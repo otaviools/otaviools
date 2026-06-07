@@ -3,7 +3,7 @@
 </div>
  
 <div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=00000&width=800&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=A259FF&width=800&lines=%3Ch1%3EHello%2C+Im+Ot%C3%A1vio+Santos%3C%2Fh1%3E;" alt="Typing SVG" /></a>
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=3000&pause=1000&color=A259FF&width=600&lines=UI%2FUX+Fullstack+Developer+%7C+Freelancer" alt="Typing SVG" />
@@ -25,7 +25,7 @@ Combining analytical rigor and product vision to deliver efficient and scalable 
 ## ⚙️ Stacks & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,python,java,spring,postgres,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,vue,nuxt,php,python,java,spring,postgres,figma&theme=dark" />
 </div>
 
 
