@@ -25,14 +25,7 @@ Combining analytical rigor and product vision to deliver efficient and scalable 
 ## ⚙️ Stacks & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,vue,nuxt,php,python,java,spring,postgres,sqlserver,figma,&theme=dark" />
-</div>
-
-
-## 🐺 GitHub Analytics
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviools&theme=react-dark&bg_color=0d1117&color=A259FF&line=A259FF&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,vue,nuxt,php,python,java,spring,postgres,figma,&theme=dark" />
 </div>
 
 
