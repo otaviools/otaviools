@@ -27,7 +27,7 @@ Combining analytical rigor and product vision to deliver efficient and scalable 
 
 ## 📩 Contact
 
-<div align="center">
+<div align="start">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/otaviols)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otaviools13@gmail.com)
