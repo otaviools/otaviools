@@ -35,7 +35,3 @@ Combining analytical rigor and product vision to deliver efficient and scalable 
  
 </div>
 
-<div align="center">
-  <img width="1280" height="320" alt="banner github" src="https://github.com/user-attachments/assets/fef823b6-e7a3-46ed-b068-d8ed18c172ef" />
-</div>
-
